@@ -1,3 +1,4 @@
 {
-    "apiCore":"https://api.daadkar.ir"
+    "apiCore":"https://api.daadkar.ir",
+    "daadNetApiCore":"https://api.daadnet.ir"
 }
